@@ -5,6 +5,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!--   LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">yourprofile</a><br>
+  Twitter: <a href="https://twitter.com/yourprofile" target="_blank">@yourprofile</a><br>
+  Instagram: <a href="https://www.instagram.com/yourprofile" target="_blank">@yourprofile</a><br> -->
+  Gmail: <a href="mailto:your.mahdijamalidev@gmail.com" target="_blank">mahdijamalidev@gmail.com</a>
+  <!-- Add more links as needed -->
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
