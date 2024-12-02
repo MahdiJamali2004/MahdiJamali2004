@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">I’m a passionate developer who started my programming journey two years ago. Over the past year, I’ve been diving deep into Android development using Kotlin. I’m constantly working on new projects and expanding my skills.</h3>
+<h3 align="center">  I’m a passionate developer with expertise in Android development using Kotlin and Flutter for building cross-platform applications.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdijamali2004&label=Profile%20views&color=0e75b6&style=flat" alt="mahdijamali2004" /> </p>
 
